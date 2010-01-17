@@ -7,3 +7,10 @@
 /snippet-db.properties
 /snippet-db.script
 /tmp.clj
+
+# Added by Eclipse, should not be checked in
+clojure-contrib-src.jar
+clojure-contrib.jar
+clojure-src.jar
+clojure.jar
+/target
